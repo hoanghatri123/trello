@@ -1,0 +1,44 @@
+$bg-button-color: rgba(255, 255, 255, 0.3);
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 40px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    &__list {
+        display: flex;
+        justify-content: flex-start;
+        color: #fff;
+        padding: 0 2px;
+        align-items: center;
+        width: 30%;    
+
+        .list__item {
+            list-style: none;
+            padding: 8px;
+            margin: 0 4px;
+            border-radius: 2px;
+            background-color: $bg-button-color;
+        }
+    }
+
+    &__list:last-child {
+        justify-content: flex-end;
+    }
+
+    &__logo {
+        
+        a {
+            text-decoration: none;
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 28px;
+            font-weight: 700;
+        }
+    }
+}
