@@ -53,8 +53,8 @@
 
 .list {
     background-color: rgb(226, 224, 224);
-    height: 100%;
     width: 300px;
+    height: 100%;
     padding: 8px 16px;
     margin: 0 8px;
     border-radius: 4px;

@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "tri-trello"
-  }
+    "default": "tri-trello",
+    "staging": "my-trello-61915"
+  },
+  "targets": {}
 }
