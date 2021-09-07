@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tri-trello/static/css/main.1cad8495.chunk.css",
+    "main.js": "/tri-trello/static/js/main.a905dde0.chunk.js",
+    "main.js.map": "/tri-trello/static/js/main.a905dde0.chunk.js.map",
+    "runtime-main.js": "/tri-trello/static/js/runtime-main.7a80f453.js",
+    "runtime-main.js.map": "/tri-trello/static/js/runtime-main.7a80f453.js.map",
+    "static/css/2.871861ed.chunk.css": "/tri-trello/static/css/2.871861ed.chunk.css",
+    "static/js/2.22c70af8.chunk.js": "/tri-trello/static/js/2.22c70af8.chunk.js",
+    "static/js/2.22c70af8.chunk.js.map": "/tri-trello/static/js/2.22c70af8.chunk.js.map",
+    "index.html": "/tri-trello/index.html",
+    "static/css/2.871861ed.chunk.css.map": "/tri-trello/static/css/2.871861ed.chunk.css.map",
+    "static/css/main.1cad8495.chunk.css.map": "/tri-trello/static/css/main.1cad8495.chunk.css.map",
+    "static/js/2.22c70af8.chunk.js.LICENSE.txt": "/tri-trello/static/js/2.22c70af8.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/tri-trello/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a80f453.js",
+    "static/css/2.871861ed.chunk.css",
+    "static/js/2.22c70af8.chunk.js",
+    "static/css/main.1cad8495.chunk.css",
+    "static/js/main.a905dde0.chunk.js"
+  ]
+}
